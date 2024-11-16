@@ -1,0 +1,9 @@
+If you are reading this article, you are likely just at the beginning of your data science journey. You will probably know by now that learning to code is a critical milestone for every aspiring data professional. Plus, you may have already heard about the Python vs R debate, and you may need help deciding which one to learn. If you are in this situation, don’t panic: most data professionals were in your situation once.
+
+Python and R are the two most popular programming languages for data science. Both languages are well suited for any data science tasks you may think of. The Python vs R debate may suggest that you have to choose either Python or R. 
+
+While this may be true for newcomers to the discipline, in the long run, you’ll likely need to learn both. Rather than seeing the two languages as mutually exclusive, you should see them as complementary tools that you can use together depending on your specific use case. 
+
+What makes R and Python the perfect candidates for data science? In this article will cover what Python and R are used for, the key differences between R and Python, and provide some factors to consider to choose the right language for your needs.
+
+Now that we've established that Python and R are both good, popular choices, there are a few factors that may sway your decision one way or the other.
